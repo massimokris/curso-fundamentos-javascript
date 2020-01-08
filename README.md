@@ -1,4 +1,4 @@
-# curso-fundamentos-javascript
+# Curso de Fundamentos de JavaScript
 Curso de Platzi de todos los fundamentos de JavaScript
 - Primeros pasos en JavaScript: Declaracion de variables, tipos de variables, declaracion de funciones, alcance de las funciones, desestructurar objetos, parametros como referencia y como valor, comparaciones.
 - Estructuras de Control y Funciones: Condicionales, funciones que retornas valores, arrow functions, estructuras repetitivas (for, while, do while), condicionales multiples (switch).
